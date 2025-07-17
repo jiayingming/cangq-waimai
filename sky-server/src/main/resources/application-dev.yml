@@ -1,8 +1,8 @@
 sky:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    host: localhost
-    port: 3306
-    database: sky_take_out
-    username: root
-    password: root
+    host: mysql5.sqlpub.com    # 远程地址
+    port: 3310                 # 远程端口
+    database: yjm123           # 远程数据库名
+    username: jym123           # 远程用户名
+    password: jkIo2ATbfkekoXeW # 远程密码
